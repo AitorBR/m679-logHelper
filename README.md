@@ -54,6 +54,7 @@ Una vez implementado el CRUD con laravel y probado con POSTMAN, ya fuimos a impl
 
 En conclusión, hemos podido implementar mayoritariamente lo pedido sobre el CRUD a nivel de servidor y logs. Me ha resultado interesante el hecho de mezclar Laravel, JS, HTML y CSS. Por otro lado, como crítica constructiva considero que se ha montado bastante mal el hecho de crear una práctica conjunta de las ufs restantes. Por un simple motivo, sin hacer  primero la parte de PHP - Laravel estás “vendido” para implementar el resto, derivado además de las pocas horas de PHP que teníamos…
 
+
 Conclusiones Aitor.
 Al final hemos sacado todo el proyecto, hemos tenido varios problemas, sobretodo con los problemas que ha generado laravel.
 
@@ -64,9 +65,6 @@ Con JS hemos tenido problemas por la forma de usarse junto a laravel, no dejando
 Un gran problema de la practica conjunta, es que si no consigues completar php, practicamente no puedes avanzar con el resto de asignaturas, ya que requieres saber como va a llegar la informacion, siendo agrabado por el horario, ya que teniamos clase de php los lunes y mastes, dejando el resto de la semana sin el profesor especifico de la asignatura.
 
 En conclusión, se a conseguido completar todo el proyecto, aunque ha sido un poco quebradero de cabeza a causa de lo comentado anteriormente, hemos aprendido mucho de este proyecto.
-
-
-
 ## REFERENCIA DE ENLACES DE INFORMACIÓN
 Toda la documentación extraída ha sido en la página oficial de laravel:
 - https://laravel.com/docs/9.x/installation
